@@ -5,7 +5,7 @@ Material UI
 Font Awesome Icons
 Styled Components
 React-Map-Gl
-uuid (v4)
+uuid (v4) 
 Firebase (OTP Authentication)
 RazorPay Integration
 Features ✨
